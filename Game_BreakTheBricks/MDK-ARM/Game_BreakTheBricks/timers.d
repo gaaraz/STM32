@@ -1,0 +1,15 @@
+game_breakthebricks\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/timers.c
+game_breakthebricks\timers.o: D:\Application\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdlib.h
+game_breakthebricks\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+game_breakthebricks\timers.o: D:\Application\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stddef.h
+game_breakthebricks\timers.o: D:\Application\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdint.h
+game_breakthebricks\timers.o: ../Core/Inc/FreeRTOSConfig.h
+game_breakthebricks\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+game_breakthebricks\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+game_breakthebricks\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+game_breakthebricks\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+game_breakthebricks\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+game_breakthebricks\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+game_breakthebricks\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+game_breakthebricks\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h
+game_breakthebricks\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
