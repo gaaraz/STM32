@@ -1,0 +1,7 @@
+/home/gaara/WorkSpace/STM32/Quadcopter_RemoteControl/build/CMakeFiles/Quadcopter_RemoteControl.dir
+/home/gaara/WorkSpace/STM32/Quadcopter_RemoteControl/build/CMakeFiles/edit_cache.dir
+/home/gaara/WorkSpace/STM32/Quadcopter_RemoteControl/build/CMakeFiles/rebuild_cache.dir
+/home/gaara/WorkSpace/STM32/Quadcopter_RemoteControl/build/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir
+/home/gaara/WorkSpace/STM32/Quadcopter_RemoteControl/build/cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir
+/home/gaara/WorkSpace/STM32/Quadcopter_RemoteControl/build/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+/home/gaara/WorkSpace/STM32/Quadcopter_RemoteControl/build/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir

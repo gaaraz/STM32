@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "inf_si24r1.h": "c",
+        "inf_joystick_key.h": "c",
+        "com_debug.h": "c",
+        "com_config.h": "c",
+        "app_dataprocess.h": "c"
+    }
+}

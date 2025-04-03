@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "com_config.h": "c",
+        "gpio.h": "c",
+        "inf_motor.h": "c",
+        "inf_si24r1.h": "c",
+        "app_flight.h": "c",
+        "app_communication.h": "c"
+    }
+}
